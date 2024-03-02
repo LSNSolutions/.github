@@ -39,4 +39,4 @@ These are, to begin with, and will include more as we progress further down.
 
 We are open to collaborating with like-minded people and providing POCs and solutions to various problems in day-to-day life about technology.
 
-[Visit Us](https://solutions.lurisan.in) [Connect with us](mailto:contact.lsnsol@lurisan.in)
+[Visit Us](https://solutions.lurisan.in)  |  [Connect](mailto:contact.lsnsol@lurisan.in)
