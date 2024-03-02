@@ -1,8 +1,8 @@
 ![LSN Solutions Logo](sol_github_360.png "Sol Dark Logo")
 
-## Hi there 👋 greetings from LSN Sol
+## Hi there 👋 greetings from Solutions
 
-LSN Sol aims to provide all-around solutions to your technical problems. It will include sample POCs on various day-to-day problems from a technology perspective. These will include but not be limited to:
+Solutions aim to provide all-around solutions to your technical problems. It will include sample POCs on various day-to-day problems from a technology perspective. These will include but not be limited to:
 
 1. Node
 2. Python
@@ -37,6 +37,6 @@ LSN Sol aims to provide all-around solutions to your technical problems. It will
 
 These are, to begin with, and will include more as we progress further down.
 
-We are open to collaborating with like-minded people and providing POCs and solutions to various problems in day-to-day life pertaining to technology.
+We are open to collaborating with like-minded people and providing POCs and solutions to various problems in day-to-day life about technology.
 
-[Connect with us](mailto:contact.lsnsol@lurisan.in)
+[Visit Us](https://solutions.lurisan.in) [Connect with us](mailto:contact.lsnsol@lurisan.in)
