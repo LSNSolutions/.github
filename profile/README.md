@@ -1,4 +1,4 @@
-![LSN Solutions Logo](sol_github_360.png "Sol Dark Logo")
+![LSN Solutions Logo](../sol_github_360.png "Sol Dark Logo")
 
 ## Hi there 👋 greetings from Solutions
 
